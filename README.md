@@ -1,5 +1,4 @@
 #zcoding.github.io
+[http://zcoding.github.io](http://zcoding.github.io "zcoding github page")
 
-github myself
-- - -
-have fun !
+This is zcoding's github page.

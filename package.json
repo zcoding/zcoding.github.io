@@ -1,0 +1,22 @@
+{
+  "name": "zcoding.github.io",
+  "version": "0.1.0",
+  "description": "github page site",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcoding/zcoding.github.io.git"
+  },
+  "keywords": [
+    "emberjs"
+  ],
+  "author": "zcoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcoding/zcoding.github.io/issues"
+  },
+  "homepage": "https://github.com/zcoding/zcoding.github.io"
+}
