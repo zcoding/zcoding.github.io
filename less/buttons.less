@@ -1,0 +1,46 @@
+@lightGreen = #B5F4B5;
+@lightRed = #EA7B7B;
+@lightBlue = #90EAFF;
+@baseFontSize = 14px;
+@basePaddingTop = 5px;
+@basePaddingLeft = 15px;
+
+.u-button {
+  display: inline-block;
+  text-decoration: none;
+  margin: 0;
+  padding: @basePaddingTop @basePaddingLeft;
+  font-size: @baseFontSize;
+  line-height: @baseFontSize + 2 * @basePaddingTop;
+  border: 2px solid #333;
+  color: #333;
+  border-radius: 0;
+  box-shadow: 0 0 1px 1px rgba(255,255,255,.5);
+}
+
+.u-button .big {
+  padding: @basePaddingTop @basePaddingLeft + 10px;
+  font-size: @baseFontSize + 4px;
+  line-height: @baseFontSize + 4px + 2 * @basePaddingTop;
+}
+
+.u-button .small {
+  padding: 2px 5px;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.u-button .red {
+  color: @lightRed;
+  border: 2px solid @lightRed;
+}
+
+.u-button .green {
+  color: @lightGreen;
+  border: 2px solid @lightGreen;
+}
+
+.u-button .blue {
+  color: @lightBlue;
+  border: 2px solid @lightBlue;
+}
