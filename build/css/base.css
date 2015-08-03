@@ -1,0 +1,22 @@
+/* 全局变量 */
+/* reset */
+html,
+body,
+div,
+nav,
+header,
+footer,
+article {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+/* list */
+ul,
+li {
+  list-style-type: none;
+}
+/* font */
+body {
+  font: normal normal 14px/1.5em arial, "microsoft yahei";
+}
